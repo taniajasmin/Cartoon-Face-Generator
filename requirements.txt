@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.12
+openai>=1.54.0
+pillow>=10.4.0
+pillow-heif>=0.18.0
+python-dotenv==1.0.1
+fastapi
+torch
+torchvision
+mediapipe
+diffusers
+numpy
+httpx
+pydantic
